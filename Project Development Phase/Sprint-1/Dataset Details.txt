@@ -1,6 +1,7 @@
 IBM Project Name: Real-Time Communication System Powered by AI for Specially Abled
-TEAM ID         : PNT2022TMID39230
-TEAM Lead       : Sriram V
+TEAM ID         : PNT2022TMID39208
+TEAM Lead       : Elakiya V
+
 
 Dataset Details
 
