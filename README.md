@@ -2,7 +2,7 @@
 Real-Time Communication System Powered by AI for Specially Abled
 Domain 
 AI - Artificial Intelligence 
-Team ID:PNT2022TMID49761
+Team ID:PNT2022TMID39208
 Team Leader - Elakiya V
 Team Member 1 - Bhavani S 
 Team Member 2 - Rasiga S
